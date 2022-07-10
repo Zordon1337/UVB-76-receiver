@@ -1,2 +1,2 @@
 # UVB-76-receiver
-page made in php that plays acutal UVB-76 sound
+big thanks to prinf.cc for adding buzzer sound streamed as .ogg file
